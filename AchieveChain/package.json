@@ -1,0 +1,16 @@
+{
+    "name": "personal-achievements-tracker",
+    "version": "1.0.0",
+    "description": "A dApp to track personal achievements on the Ethereum blockchain.",
+    "main": "index.js",
+    "scripts": {
+      "start": "truffle develop",
+      "test": "truffle test"
+    },
+    "dependencies": {
+      "web3": "^1.6.1",
+      "truffle": "^5.8.0"
+    },
+    "devDependencies": {}
+  }
+  
